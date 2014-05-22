@@ -7,7 +7,8 @@
        "Cron",
        "Job",
        "Job Queue",
-       "JobQueue"
+       "JobQueue",
+       "asynchronous"
    ],
    "homepage": "https://github.com/tarun-singhal/JobQueue",
    "authors": [
