@@ -8,7 +8,8 @@
        "Job",
        "Job Queue",
        "JobQueue",
-       "asynchronous"
+       "asynchronous",
+       "Parallel Jobs"
    ],
    "homepage": "https://github.com/tarun-singhal/JobQueue",
    "authors": [
