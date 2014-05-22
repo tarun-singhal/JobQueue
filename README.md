@@ -47,7 +47,9 @@ In your action function:
     	
     	$this->jobQueueObj->setJobQueue($jobQueueArray); //Set the jobQueue
 ```
+
 5. Now create action who will point for the jobQueue url 
+
 
 ```php
     /**
@@ -60,6 +62,7 @@ In your action function:
     	exit();
     }
 ```
+
 6. Now you will get the email.
 
 
