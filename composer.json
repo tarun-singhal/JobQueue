@@ -1,5 +1,5 @@
 {
-   "name": "tarun-singhal/JobQueue",
+   "name": "tarun-singhal/job-queue",
    "description": "Zend Server Feature JobQueue usage in Zend Framework 2.",
    "type": "library",
    "keywords": [
